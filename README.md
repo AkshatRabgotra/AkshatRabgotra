@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m an AI and Data Engineer who loves turning messy, scattered data into something reliable and useful. I design and build ETL/ELT pipelines that move, clean, and shape data at scale, so that analytics and machine learning models have a solid foundation to work on. I’m equally excited by the ML side: training models, experimenting with new ideas, and seeing how good data engineering directly improves what AI can do. I care about pipelines that are not just functional but maintainable and production-ready, and I’m always learning, building, and looking for problems where data and intelligence meet.
+AI and Data Engineer specializing in the design and development of scalable ETL/ELT pipelines for analytics and machine learning. I build reliable, maintainable, production-ready data systems that ensure high-quality data reaches downstream models and applications. My work spans data ingestion, transformation, and orchestration, alongside hands-on machine learning development and experimentation. I am focused on applying sound data engineering practices to deliver measurable impact in AI-driven solutions.
 
 
 ## 🌐 Socials:
